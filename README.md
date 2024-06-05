@@ -1,1 +1,1 @@
-# Data-Exploration-with-Covid-Data
+# Data-Science-Salaries
